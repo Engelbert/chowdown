@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Roasted Brussels Sprouts"
-image: roasted-brussels-sprouts.jpg
+image: roasted-brussels-sprouts.webp
 tags: sides, vegetables
 
 ingredients:

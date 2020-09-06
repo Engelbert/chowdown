@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Smashed Carrots"
-image: smashed-carrots.jpg
+image: smashed-carrots.webp
 tags: sides, vegetables
 
 ingredients:

@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Red Berry Dessert Topping"
-image: red-berry-topping.jpg
+image: red-berry-topping.webp
 imagecredit: https://flic.kr/p/9kczzP
 
 ingredients:

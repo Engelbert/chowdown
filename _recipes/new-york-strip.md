@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "New York Strip"
-image: new-york-strip.jpg
+image: new-york-strip.webp
 tags: mains, meat
 
 ingredients:

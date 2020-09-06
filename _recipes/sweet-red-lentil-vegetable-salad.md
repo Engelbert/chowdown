@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Sweet red lentil and vegetable salad"
-image: red-lentil-salad.jpg
+image: red-lentil-salad.webp
 tags: fancy, vegetarian
 
 ingredients:

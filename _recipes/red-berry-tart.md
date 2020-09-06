@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Red Berry Tart"
-image: red-berry-tart.jpg
+image: red-berry-tart.webp
 tags: desserts
 
 directions:

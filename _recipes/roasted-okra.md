@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Roasted Okra"
-image: roasted-okra.jpg
+image: roasted-okra.webp
 tags: sides, vegetables
 
 ingredients:

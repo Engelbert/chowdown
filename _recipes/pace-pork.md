@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Pace Pork"
-image: pace-pork.jpg
+image: pace-pork.webp
 tags: mains, crock pot
 
 ingredients:

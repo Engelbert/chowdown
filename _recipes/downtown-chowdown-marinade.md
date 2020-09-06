@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Downtown Marinade"
-image: downtown-marinade.jpg
+image: downtown-marinade.webp
 tags: party, meat
 
 ingredients:

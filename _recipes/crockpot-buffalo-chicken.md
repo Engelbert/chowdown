@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Crockpot Buffalo Chicken"
-image: crockpot-buffalo-chicken.jpg
+image: crockpot-buffalo-chicken.webp
 tags: mains, grill, party
 
 ingredients:

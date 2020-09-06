@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Graham Cracker Crust"
-image: graham-cracker-crust.jpg
+image: graham-cracker-crust.webp
 imagecredit: https://flic.kr/p/atxu75
 
 ingredients:

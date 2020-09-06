@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Green Spaghetti"
-image: green-spaghetti.jpg
+image: green-spaghetti.webp
 tags: mains, pasta, veg
 
 ingredients:

@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Vanilla Custard Filling"
-image: vanilla-custard.jpg
+image: vanilla-custard.webp
 imagecredit: https://flic.kr/p/99yJqV
 
 ingredients:

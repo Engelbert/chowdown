@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Mushroom Risotto"
-image: mushroom-risotto.jpg
+image: mushroom-risotto.webp
 tags: mains, veg
 
 ingredients:

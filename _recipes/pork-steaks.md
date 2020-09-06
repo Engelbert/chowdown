@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Pork Steaks"
-image: pork-steaks.jpg
+image: pork-steaks.webp
 tags: mains, meat
 
 ingredients:

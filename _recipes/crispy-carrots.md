@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Crispy Carrots"
-image: crispy-carrots.jpg
+image: crispy-carrots.webp
 tags: veg, party
 
 ingredients:

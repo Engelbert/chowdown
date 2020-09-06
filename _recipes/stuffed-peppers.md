@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Stuffed Peppers"
-image: stuffed-peppers.jpg
+image: stuffed-peppers.webp
 tags: side, party
 
 ingredients:
