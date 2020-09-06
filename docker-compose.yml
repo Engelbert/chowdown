@@ -10,7 +10,7 @@ services:
       - "4000:4000"
     volumes:
       - .:/srv/jekyll
-      - /opt/docker/chowdown/data/components:/srv/jekyll/_components
-      - /opt/docker/chowdown/data/images:/srv/jekyll/_images
-      - /opt/docker/chowdown/data/posts:/srv/jekyll/_posts
-      - /opt/docker/chowdown/data/recipes:/srv/jekyll/_recipes
+      - /mnt/data/docker/volumes/Chowdown/_data/components:/srv/jekyll/_components
+      - /mnt/data/docker/volumes/Chowdown/_data/images:/srv/jekyll/_images
+      - /mnt/data/docker/volumes/Chowdown/_data/posts:/srv/jekyll/_posts
+      - /mnt/data/docker/volumes/Chowdown/_data/recipes:/srv/jekyll/_recipes
