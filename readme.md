@@ -2,7 +2,7 @@
 
 A simple, plaintext recipe database for hackers
 
-[http://chowdown.io](http://chowdown.io)
+[https://chowdown.engelbert.be/](https://chowdown.engelbert.be/)
 
 # Getting Started
 
