@@ -36,4 +36,4 @@ JUICY ROAST CHICKEN WITH A TWIST
 
 “I first roasted chicken like this when I visited the US – the steam from the beer creates the most amazingly juicy results. ”
 
-[https://bakingamoment.com/hawaiian-rolls/](https://bakingamoment.com/hawaiian-rolls/)
+[https://www.jamieoliver.com/recipes/chicken-recipes/sweet-spicy-beer-can-chicken/](https://www.jamieoliver.com/recipes/chicken-recipes/sweet-spicy-beer-can-chicken/)
