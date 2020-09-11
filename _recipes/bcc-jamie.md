@@ -32,7 +32,8 @@ directions:
 
 nutrition:
 - serving size: 1
-- calories 261
+- calories:
+  - 261
 - carbohydrateContent: 7.3
 - fat: 11.2
 - salt: 0.1
