@@ -32,7 +32,7 @@ directions:
 
 nutrition:
   servingSize: 1
-  carbs: 261
+  carbohydrateContent: 7.3
 
 ---
 
