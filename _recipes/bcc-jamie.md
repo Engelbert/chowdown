@@ -31,8 +31,8 @@ directions:
 - Brush the chicken all over with the barbecue sauce, then return to the oven for a further 10 minutes, or until dark and sticky. Meanwhile, finely slice the chilli and spring onions and pick the coriander leaves. Once ready, carefully remove and discard the can, then carve up the bird, scatter over the chilli, spring onions and coriander leaves, then serve.
 
 nutrition:
-- servingSize: 1
-- carbs: 261
+  servingSize: 1
+  carbs: 261
 
 ---
 
