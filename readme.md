@@ -30,9 +30,20 @@ They are written in Markdown and contain a few special sections:
  - Title, Image, and Layout (which is "recipe")
  - Ingredients (a list of things in the dish)
  - Directions (a list of steps for the dish)
+ - Nutrition (a list of nutrient information)
 - Body content (for intros, stories, written detail)
 
 If you need help with Markdown, here's a [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+# Adding nutrient information
+
+Add the folowing to *your-recipe.md*
+
+    nutrition:
+      servingSize: 1
+      calories: 261
+      carbohydrateContent: 7.3
+
 
 # Writing a component recipe
 
