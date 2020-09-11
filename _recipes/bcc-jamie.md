@@ -34,6 +34,12 @@ nutrition:
   servingSize: 1
   calories: 261
   carbohydrateContent: 7.3
+  fatContent: 11.2
+  saturatedFatContent: 2.8
+  fiberContent: 0.3
+  proteinContent: 34.2
+  sodiumContent: 0.1
+  sugarContent: 5.7
 
 ---
 
