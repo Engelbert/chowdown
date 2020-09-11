@@ -32,6 +32,7 @@ directions:
 
 nutrition:
   servingSize: 1
+  calories: 261
   carbohydrateContent: 7.3
 
 ---
