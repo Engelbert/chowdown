@@ -30,6 +30,16 @@ directions:
 - Crack open the beer and pour out around two-thirds of it (or drink it!), then carefully lower the chicken cavity onto the can so it looks like it’s sitting up. Position the chicken so it’s upright on a roasting tray, then place in the oven and cook for around 1 hour 10 minutes, or until golden and cooked through. To check it’s done, insert a knife into the thickest part of the thigh – the juices should run clear.
 - Brush the chicken all over with the barbecue sauce, then return to the oven for a further 10 minutes, or until dark and sticky. Meanwhile, finely slice the chilli and spring onions and pick the coriander leaves. Once ready, carefully remove and discard the can, then carve up the bird, scatter over the chilli, spring onions and coriander leaves, then serve.
 
+nutrition:
+- calories: 261
+- serving size: 1
+- carbs: 7.3
+- fat: 11.2
+- salt: 0.1
+- sugars: 5.7
+- fibres: 0.3
+- protein: 34.2
+
 ---
 
 JUICY ROAST CHICKEN WITH A TWIST
