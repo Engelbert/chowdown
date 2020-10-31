@@ -28,7 +28,7 @@ directions:
 - Put the tajine in an oven that is not pre-heated! You'll break the basterd!
 - Get the oven to 160ish degrees celcius and wait 2 to 3 hours.
 - Trust yourself and do not check... It 'll be right.
-- Just before serving prepare the couscous.
+- Just before serving prepare the couscous the way you like it.
 
 
 ---
